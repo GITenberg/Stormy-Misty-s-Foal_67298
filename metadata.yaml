@@ -1,0 +1,25 @@
+_repo: Stormy-Misty-s-Foal_67298
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, Marguerite
+    gutenberg_agent_id: '54202'
+    url: http://www.gutenberg.org/2009/agents/54202
+description: ''
+gutenberg_issued: '2022-02-01'
+identifiers:
+  gutenberg: '67298'
+language: en
+pgterms:marc905: 20211110054754henry
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Rand McNally and Company,1963.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Stormy, Misty's Foal
+url: http://www.gutenberg.org/ebooks/67298
